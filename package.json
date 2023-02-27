@@ -1,0 +1,21 @@
+{
+  "name": "the-movie-db",
+  "version": "1.0.0",
+  "description": "Practica consumiendo API de the movie dbv",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morrix90/the-movie-db.git"
+  },
+  "author": "Nahuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morrix90/the-movie-db/issues"
+  },
+
+  "homepage": "https://github.com/morrix90/the-movie-db#readme"
+}
